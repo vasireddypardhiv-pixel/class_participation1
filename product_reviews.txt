@@ -1,0 +1,11 @@
+id	text
+1	Love this blender! Smoothies are super creamy and fast.
+2	Terrible quality... stopped working after 2 days!!!
+3	Good value for the price. Shipping was quick.
+4	Not as described. Missing parts and the box was damaged.
+5	Customer support helped me get a replacement. Thanks!
+6	Battery life is amazing, but the screen is too dim.
+7	I want a refund. Charged twice and nobody replied.
+8	Setup was easy. Instructions were clear.
+9	The app keeps crashing. Very frustrating experience.
+10	Works fine, nothing special. Wouldn’t buy again.
